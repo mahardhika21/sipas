@@ -1,0 +1,8 @@
+nama aplikasi : SIPAS (SISTEM PERUSAAN)
+# setelah menginstall :
+1. update composer dengan perintah composer update
+2. buatdatabase dengan nama company
+3. melakukan migrate database dengan perintah  php artisan migrate
+4. melakukan seddenig database dengan perintah php artisan php artisan db:seed
+5. jalankan aplikasi dengan virtual host
+6. login dengan email : admin@transisi.id dan password : transisi;
